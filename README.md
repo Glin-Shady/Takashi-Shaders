@@ -1,4 +1,4 @@
-# TakashiShaders licence
+# TakashiShaders licence (GRES licence)
 "Takashi Shaders" are made and developed by "Glin Shady".
 You must follow below rules when using Takashi Shaders.
 
