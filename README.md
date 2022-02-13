@@ -1,13 +1,13 @@
 # TakashiShaders licence 
 "Takashi Shaders" are made and developed by "Glin Yossyy".
-You must follow below rules when using Takashi Shaders.
+You must follow below rules when using Takashi Shaders. announce-アナウンス
 
 You are allowed to:
 ・Use "Takashi Shaders".
 ・Share pictures and videos which are used "Takashi Shaders".
 ・Share "TakashiShaders" with official download links. (Download links created by non-Glin Yossyy people are not valid.)
 ・Introduce "Takashi Shaders" on youtube, twitter, etc.
-・Share "SETTINGS.glsl"
+・Share "SETTINGS.glsl".
    
 You are denyed to:
 ・Earn money with "Takashi Shaders".
