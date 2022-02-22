@@ -9,7 +9,7 @@ You are allowed to:
 ・Introduce "Takashi Shaders" on youtube, twitter, etc.
 ・Share "SETTINGS.glsl".
    
-You are denyed to:
+You are denied to:
 ・Earn money with "Takashi Shaders".
 ・Use codes of "Takashi Shaders".
 
